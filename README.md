@@ -14,7 +14,7 @@ ClassNote
   
 >  3º Folder location which contains the generated files
   
-  1 - `/app /home/user/Desktop/input`
+  1 - `/.app /home/user/Desktop/input`
  
 
   2 - `/home/user/Desktop/excluir`

@@ -515,7 +515,6 @@ void carregaArquivo(tipoArvore* arvore, FILE *arquivo){//passo por parametro a r
                 inserirArvore(novo_aluno, arvore);
             }
         }
-    fclose(arquivo);
     fclose(arquivo2);
     remove("auxiliar.dat");//Apago o arquivo temporário!
 }
